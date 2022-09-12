@@ -1,0 +1,2 @@
+This is the first git project I have done with the odin project
+cannot wait to do more and become a fullstack web developer
